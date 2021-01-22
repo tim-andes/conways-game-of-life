@@ -13,7 +13,7 @@ def main(WIDTH, HEIGHT, num_cycles, count_cycles):
 	Set number of cycles with num_cycles.
 
 	:param WIDTH: Width of grid
-	:param HEIGHT: Height of grid.
+	:param HEIGHT: Height of grid
 	:return: None
 	"""
 
