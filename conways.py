@@ -30,7 +30,6 @@ def main(WIDTH, HEIGHT, num_cycles, count_cycles):
 
 	# main program loop
 	while num_cycles > count_cycles:
-		# count number of cycles
 		count_cycles += 1
 
 		# new lines for each step
